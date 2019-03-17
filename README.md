@@ -1,4 +1,4 @@
-#### Autonomous Driving with Convolutional Neural Network
+### Autonomous Driving with Convolutional Neural Network
 
 **Youtube**
 
@@ -11,7 +11,7 @@
 
 **Car Simulator:** Udacity
 
-#### Attention at the last layer
+### Attention at the last layer
 
 **Original Image**
 
