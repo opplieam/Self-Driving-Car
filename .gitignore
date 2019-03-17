@@ -1,3 +1,9 @@
+# Project
+.idea/
+data/
+*.h5
+.ipynb_*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
